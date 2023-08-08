@@ -1,0 +1,65 @@
+"","model","Topic","Test_Type","Precision","Recall","F1"
+"1","Italy","Economy","Validation Keyword Only",0.328,0.25,0.284
+"2","Germany","Economy","Validation Keyword Only",0.372,0.345,0.358
+"3","The Netherlands","Economy","Validation Keyword Only",0.419,0.159,0.23
+"4","Poland","Economy","Validation Keyword Only",0.239,0.164,0.195
+"5","Italy","Economy","Manual Labels Train/Test Split",0.072,0.263,0.114
+"6","Germany","Economy","Manual Labels Train/Test Split",0.243,0.587,0.344
+"7","The Netherlands","Economy","Manual Labels Train/Test Split",0.067,0.222,0.103
+"8","Poland","Economy","Manual Labels Train/Test Split",0.046,0.312,0.081
+"9","Italy","Entertainment","Validation Keyword Only",0.528,0.174,0.261
+"10","Germany","Entertainment","Validation Keyword Only",0.475,0.194,0.276
+"11","The Netherlands","Entertainment","Validation Keyword Only",0.571,0.071,0.127
+"12","Poland","Entertainment","Validation Keyword Only",0.469,0.205,0.286
+"13","Italy","Entertainment","Manual Labels Train/Test Split",0.456,0.683,0.547
+"14","Germany","Entertainment","Manual Labels Train/Test Split",0.482,0.681,0.565
+"15","The Netherlands","Entertainment","Manual Labels Train/Test Split",0.45,0.642,0.529
+"16","Poland","Entertainment","Manual Labels Train/Test Split",0.351,0.72,0.472
+"17","Italy","Sports","Manual Labels Train/Test Split",0.211,0.5,0.297
+"18","Germany","Sports","Manual Labels Train/Test Split",0.083,0.4,0.138
+"19","The Netherlands","Sports","Manual Labels Train/Test Split",0.093,1,0.17
+"20","Poland","Sports","Manual Labels Train/Test Split",0.078,0.727,0.14
+"21","Italy","Sports","Validation",0.926,0.643,0.759
+"22","Italy","Sports","Train/Test Split",0.929,0.721,0.812
+"23","Germany","Sports","Validation",0.8,0.828,0.814
+"24","Germany","Sports","Train/Test Split",0.645,0.412,0.503
+"25","The Netherlands","Sports","Validation",0.455,0.312,0.37
+"26","The Netherlands","Sports","Train/Test Split",0.857,0.286,0.429
+"27","Poland","Sports","Validation",0.354,0.719,0.474
+"28","Poland","Sports","Train/Test Split",0.667,0.828,0.739
+"29","Italy","Sports","Validation Keyword Only",0.958,0.235,0.377
+"30","Germany","Sports","Validation Keyword Only",0.87,0.69,0.769
+"31","The Netherlands","Sports","Validation Keyword Only",0.857,0.158,0.267
+"32","Poland","Sports","Validation Keyword Only",0.643,0.281,0.391
+"33","Italy","Economy","Validation",0.317,0.702,0.437
+"34","Italy","Economy","Train/Test Split",0.723,0.599,0.655
+"35","Germany","Economy","Validation",0.363,0.516,0.426
+"36","Germany","Economy","Train/Test Split",0.562,0.363,0.441
+"37","The Netherlands","Economy","Validation",0.15,0.227,0.181
+"38","The Netherlands","Economy","Train/Test Split",0.75,0.225,0.346
+"39","Poland","Economy","Validation",0.147,0.687,0.242
+"40","Poland","Economy","Train/Test Split",0.576,0.771,0.66
+"41","Italy","Entertainment","Validation",0.385,0.64,0.481
+"42","Italy","Entertainment","Train/Test Split",0.795,0.808,0.801
+"43","Germany","Entertainment","Validation",0.612,0.526,0.566
+"44","Germany","Entertainment","Train/Test Split",0.666,0.541,0.597
+"45","The Netherlands","Entertainment","Validation",0.287,0.775,0.418
+"46","The Netherlands","Entertainment","Train/Test Split",0.905,0.96,0.932
+"47","Poland","Entertainment","Validation",0.364,0.75,0.49
+"48","Poland","Entertainment","Train/Test Split",0.802,0.798,0.8
+"49","Italy","Politics","Validation",0.796,0.641,0.71
+"50","Italy","Politics","Train/Test Split",0.823,0.9,0.86
+"51","Germany","Politics","Validation",0.892,0.742,0.81
+"52","Germany","Politics","Train/Test Split",0.818,0.879,0.847
+"53","The Netherlands","Politics","Validation",0.6,0.01,0.02
+"54","The Netherlands","Politics","Train/Test Split",0,0,NA
+"55","Poland","Politics","Validation",0.908,0.729,0.808
+"56","Poland","Politics","Train/Test Split",0.851,0.921,0.885
+"57","Italy","Politics","Validation Keyword Only",0.907,0.13,0.227
+"58","Germany","Politics","Validation Keyword Only",0.9,0.36,0.514
+"59","The Netherlands","Politics","Validation Keyword Only",1,0.007,0.015
+"60","Poland","Politics","Validation Keyword Only",0.917,0.127,0.224
+"61","Italy","Politics","Manual Labels Train/Test Split",0.683,0.812,0.742
+"62","Germany","Politics","Manual Labels Train/Test Split",0.789,0.874,0.83
+"63","The Netherlands","Politics","Manual Labels Train/Test Split",0.724,0.876,0.793
+"64","Poland","Politics","Manual Labels Train/Test Split",0.843,0.892,0.866
